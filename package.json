@@ -1,0 +1,23 @@
+{
+  "name": "wp-react-admin-panel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@wordpress/api-fetch": "^7.19.0",
+    "@wordpress/components": "^29.5.0",
+    "@wordpress/data": "^10.19.0",
+    "@wordpress/element": "^6.19.0",
+    "@wordpress/i18n": "^5.19.0"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^30.12.0"
+  }
+}
