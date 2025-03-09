@@ -41,4 +41,6 @@ Go to the WordPress admin panel and activate "WP React Admin Panel" from the Plu
 
 ## Usage
 
-After activation, navigate to **Settings > WP React Admin Panel** in the WordPress admin dashboard. Here, you can modify and save custom options.
+After activation, navigate to **Admin UI** in the WordPress admin dashboard. Here, you can modify and save custom options.
+
+![](./ui.png)
